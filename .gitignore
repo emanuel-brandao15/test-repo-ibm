@@ -66,3 +66,4 @@ celerybeat.pid
 .pytype/
 cython_debug/
 .tmp-project-imports/
+.Rproj.user
